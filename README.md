@@ -95,16 +95,8 @@ python -m venv venv
 
 ## Activate Virtual Environment
 
-### Windows
-
 ```bash
 venv\Scripts\activate
-```
-
-### Linux / Mac
-
-```bash
-source venv/bin/activate
 ```
 
 ---
@@ -177,50 +169,6 @@ python run_servers.py
 
 ---
 
-# Future Enhancements
-
-* Voice assistant integration
-* Chat history storage
-* Authentication and user management
-* Real-time streaming responses
-* Model performance analytics
-* Mobile application support
-
----
-
-# Screenshots
-
-Add project screenshots here.
-
-```bash
-screenshots/home.png
-screenshots/chat-interface.png
-```
-
----
-
-# Testing
-
-Run tests using:
-
-```bash
-pytest
-```
-
----
-
-# Contributing
-
-Contributions are welcome.
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push to your branch
-5. Create a Pull Request
-
----
-
 # License
 
 This project is developed for educational and learning purposes.
@@ -234,10 +182,3 @@ This project is developed for educational and learning purposes.
 GitHub: [https://github.com/MithunSarode](https://github.com/MithunSarode)
 
 ---
-
-# Acknowledgements
-
-* OpenAI
-* Google Gemini
-* FastAPI Community
-* Open Source Contributors
