@@ -147,28 +147,6 @@ python run_servers.py
 
 ---
 
-# Run with Docker
-
-## Build Docker Image
-
-```bash
-docker build -t multi-llm-app .
-```
-
-## Run Docker Container
-
-```bash
-docker run -p 8000:8000 multi-llm-app
-```
-
-## Using Docker Compose
-
-```bash
-docker-compose up --build
-```
-
----
-
 # API Endpoints
 
 | Method | Endpoint  | Description              |
